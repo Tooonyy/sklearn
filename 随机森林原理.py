@@ -25,6 +25,3 @@ for clf_key in clfs.keys():
     print('the classifier is :',clf_key)
     clf=clfs[clf_key]
     try_different_method(clf)
-
-# 这是一行注释
-# 这又是一行注释
